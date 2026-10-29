@@ -1,21 +1,21 @@
-"grupo","producto","descripcion","imagen_url","variante","precio_usd","stock","activo","orden"
-"GLP-1 / Peso","Tirzepatida","Pérdida de peso y control de glucosa. Menos potente que la Retatrutida. Agonista de GLP-1 y GIP.","","10mg","45","1","SI","1"
-"GLP-1 / Peso","Retatrutide","Menos apetito, mejor sensibilidad a la insulina, control de glucosa, aumenta el gasto calórico. Agonista GLP1/GIP/GLUCAGON.","","10mg","65","1","SI","2"
-"GLP-1 / Peso","Retatrutide","Menos apetito, mejor sensibilidad a la insulina, control de glucosa, aumenta el gasto calórico. Agonista GLP1/GIP/GLUCAGON.","","20mg","110","1","SI","2"
-"GH / Hormona crecimiento","Tesamorelin","Reducir grasa abdominal visceral vía hormona de crecimiento.","","10mg","80","1","SI","3"
-"GH / Hormona crecimiento","CJC-1295 w/o DAC + Ipamorelin","Subir hormona de crecimiento; mayor IGF-1, recuperación, ganancia muscular leve, sueño, composición corporal.","","","65","1","SI","4"
-"GH / Hormona crecimiento","Tesamorelin + Ipamorelin","Más hormona de crecimiento, menos grasa visceral.","","10mg + 3mg","90","1","SI","5"
-"Recuperación","BPC-157 + TB-500 Frag","Reparar lesiones de tendones, músculos y tejidos.","","5mg + 5mg","70","1","SI","6"
-"Recuperación","BPC-157","Curar lesiones de tejidos e intestino. Útil para acelerar recuperación de entrenamientos de fuerza.","","10mg","50","1","SI","7"
-"Recuperación","BPC-157","Curar lesiones de tejidos e intestino. Útil para acelerar recuperación de entrenamientos de fuerza.","","20mg","60","1","SI","7"
-"Recuperación","BEAST100 (BPC-157 + TB-500 Fragment + GHK-Cu + KPV + Cartalax)","Blend de 5 péptidos para regeneración total: tejidos, piel, articulaciones, menos inflamación.","","","140","1","SI","8"
-"Energía / Mitocondria","MOTS-C","Metabolismo, sensibilidad a la insulina, longevidad mitocondrial. Gran combinación con Retatrutida para potenciar pérdida de peso y quema de grasa.","","20mg","85","1","SI","9"
-"Energía / Mitocondria","SS-31","Proteger y reparar mitocondrias, energía celular y longevidad. Útil usarlo 2-4 semanas 1 vez por año.","","10mg","60","1","SI","10"
-"Piel / Cobre","GHK-Cu","Colágeno, rejuvenecer la piel, cicatrización y cabello.","","50mg","40","1","SI","11"
-"Piel / Cobre","GHK-Cu","Colágeno, rejuvenecer la piel, cicatrización y cabello.","","100mg","80","1","SI","11"
-"Piel / Cobre","AHK-Cu","Crecimiento del cabello y salud del cuero cabelludo. Casi idéntico al GHK-Cu, pero con enlaces modificados para potenciar su efecto en el pelo.","","50mg","40","1","SI","12"
-"Bronceado","Melanotan I","Bronceado y protección frente al sol.","","","50","1","SI","13"
-"Bronceado","Melanotan II","Bronceado más potente que el Melanotan 1 (SIN NECESIDAD DE EXPONERSE AL SOL), aumenta libido y menos apetito.","","","55","1","SI","14"
-"Cognitivo","Adamax1032","Análogo de Semax para cognición. Se usa INTRANASAL. Aumenta CLARIDAD MENTAL notoriamente, enfoque sostenido y fluidez, energía limpia sin nerviosismo y reducción de la fatiga mental.","","","90","1","SI","15"
-"Insumo (agua)","BAC Water","Diluyente estéril para reconstituir péptidos.","","3ml","10","1","SI","16"
-"Insumo (agua)","BAC Water","Diluyente estéril para reconstituir péptidos.","","10ml","15","1","SI","16"
+grupo,producto,descripcion,imagen_url,variante,precio_usd,stock,activo,orden
+GLP-1 / Peso,Tirzepatida,Pérdida de peso y control de glucosa. Menos potente que la Retatrutida. Agonista de GLP-1 y GIP.,,10mg,45,1,SI,1
+GLP-1 / Peso,GLA-3 RT,"Menos apetito, mejor sensibilidad a la insulina, control de glucosa, aumenta el gasto calórico. Agonista GLP1/GIP/GLUCAGON.",,10mg,65,1,SI,2
+GLP-1 / Peso,GLA-3 RT,"Menos apetito, mejor sensibilidad a la insulina, control de glucosa, aumenta el gasto calórico. Agonista GLP1/GIP/GLUCAGON.",,20mg,110,1,SI,2
+GH / Hormona crecimiento,Tesamorelin,Reducir grasa abdominal visceral vía hormona de crecimiento.,,10mg,80,1,SI,3
+GH / Hormona crecimiento,CJC-1295 Sin DAC + Ipamorelin,"Subir hormona de crecimiento; mayor IGF-1, recuperación, ganancia muscular leve, sueño, composición corporal.",,10mg (5mg c/u),65,1,SI,4
+GH / Hormona crecimiento,Tesamorelin + Ipamorelin,"Más hormona de crecimiento, menos grasa visceral.",,10mg + 3mg,90,1,SI,5
+Recuperación,BPC-157 + TB-500,"Reparar lesiones de tendones, músculos y tejidos.",,10mg (5mg c/u),70,1,SI,6
+Recuperación,BPC-157,Curar lesiones de tejidos e intestino. Útil para acelerar recuperación de entrenamientos de fuerza.,,10mg,50,1,SI,7
+Recuperación,BPC-157,Curar lesiones de tejidos e intestino. Útil para acelerar recuperación de entrenamientos de fuerza.,,20mg,60,1,SI,7
+Recuperación,BEAST100 (BPC-157 + TB-500 Fragment + GHK-Cu + KPV + Cartalax),"Blend de 5 péptidos para regeneración total: tejidos, piel, articulaciones, menos inflamación.",,"100mg (50mg GHK, 10mg BPC, 10mg TB, 10mg KPV, 20mg CART)",140,1,SI,8
+Energía / Mitocondria,MOTS-C,"Metabolismo, sensibilidad a la insulina, longevidad mitocondrial. Gran combinación con Retatrutida para potenciar pérdida de peso y quema de grasa.",,20mg,85,1,SI,9
+Energía / Mitocondria,SS-31,"Proteger y reparar mitocondrias, energía celular y longevidad. Útil usarlo 2-4 semanas 1 vez por año.",,10mg,60,1,SI,10
+Piel / Cobre,GHK-Cu,"Colágeno, rejuvenecer la piel, cicatrización y cabello.",,50mg,40,1,SI,11
+Piel / Cobre,GHK-Cu,"Colágeno, rejuvenecer la piel, cicatrización y cabello.",,100mg,80,1,SI,11
+Piel / Cobre,AHK-Cu,"Crecimiento del cabello y salud del cuero cabelludo. Casi idéntico al GHK-Cu, pero con enlaces modificados para potenciar su efecto en el pelo.",,50mg,40,1,SI,12
+Bronceado,Melanotan I,Bronceado y protección frente al sol.,,10mg,50,1,SI,13
+Bronceado,Melanotan II,"Bronceado más potente que el Melanotan 1 (SIN NECESIDAD DE EXPONERSE AL SOL), aumenta libido y menos apetito.",,10mg,55,1,SI,14
+Cognitivo,Adamax1032,"Análogo de Semax para cognición. Se usa INTRANASAL. Aumenta CLARIDAD MENTAL notoriamente, enfoque sostenido y fluidez, energía limpia sin nerviosismo y reducción de la fatiga mental.",,10mg,90,1,SI,15
+Insumo (agua),Agua Bacteriostatica,Diluyente estéril para reconstituir péptidos.,,3ml,10,1,SI,16
+Insumo (agua),Agua Bacteriostatica,Diluyente estéril para reconstituir péptidos.,,10ml,15,1,SI,16
