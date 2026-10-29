@@ -16,7 +16,13 @@ const DOLAR_API = "https://dolarapi.com/v1/dolares/blue";
 const DOLAR_CADA_MS = 5 * 60 * 1000;
 const CSV_EJEMPLO = "sample-productos.csv";
 const CLAVE_CARRITO = "aminolabar-carrito";
-const DESCRIPCION_POR_DEFECTO = "Elegí tus productos, armá el pedido y envialo por WhatsApp.";
+const DESCRIPCION_POR_DEFECTO = `En AminoLabAr trabajamos con péptidos de investigación. Priorizamos la calidad y compartimos los certificados de análisis (COA) para que puedas consultar la información de los productos. Seguimos estudiando y revisando las publicaciones sobre los péptidos que ofrecemos.
+
+Por WhatsApp te atendemos nosotros. Podés consultar por los productos, pedir sus certificados y contar con atención personalizada antes y después de tu compra.
+
+Elegimos un catálogo sencillo para que puedas encontrar los productos y comunicarte directamente con nuestro equipo.
+
+Escribinos por WhatsApp para consultar por un producto o solicitar su COA.`;
 const COLUMNAS = ["grupo", "producto", "descripcion", "imagen_url", "variante", "precio_usd", "stock", "activo", "orden"];
 const METODOS = { transferencia: "Transferencia bancaria", usdt: "Cripto (USDT)" };
 const PORCENTAJE_OFF = `${Math.round(CONFIG.DESCUENTO_USDT * 100)}%`;
