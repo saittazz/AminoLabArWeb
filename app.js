@@ -22,7 +22,7 @@ Por WhatsApp te atendemos nosotros. Podés consultar por los productos, pedir su
 
 Elegimos un catálogo sencillo para que puedas encontrar los productos y comunicarte directamente con nuestro equipo.
 
-Escribinos por WhatsApp para consultar por un producto o solicitar su COA.`;
+Elegí tus productos, armá el pedido y envialo por WhatsApp.`;
 const COLUMNAS = ["grupo", "producto", "descripcion", "imagen_url", "variante", "precio_usd", "stock", "activo", "orden"];
 const METODOS = { transferencia: "Transferencia bancaria", usdt: "Cripto (USDT)" };
 const PORCENTAJE_OFF = `${Math.round(CONFIG.DESCUENTO_USDT * 100)}%`;
