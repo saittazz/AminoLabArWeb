@@ -1,0 +1,17 @@
+# Configuración local y herramientas de asistentes
+.claude/
+.codex/
+.vercel/
+skills-lock.json
+
+# Credenciales y variables locales
+.env
+.env.*
+!.env.example
+
+# Dependencias, archivos temporales y sistema operativo
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini

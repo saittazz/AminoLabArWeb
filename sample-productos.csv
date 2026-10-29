@@ -1,0 +1,12 @@
+grupo,producto,descripcion,imagen_url,variante,precio_usd,stock,activo,orden
+Vitaminas y minerales,Vitamina D3 + K2,"Vitamina D3 (colecalciferol) con K2 (MK-7), en cápsulas blandas.",,60 cápsulas,28,12,SI,5
+Suplementos para el sueño,Bisglicinato de Magnesio,"Magnesio quelado con glicina, una forma de alta absorción y suave para el estómago.
+Se puede tomar a la noche, antes de dormir.",,60 cápsulas,60,10,SI,1
+Suplementos para el sueño,Bisglicinato de Magnesio,,,120 cápsulas,100,5,SI,1
+Suplementos para el sueño,L-Teanina 200 mg,"Aminoácido presente en el té verde. Cápsulas ""veggie"", sin TACC.",,60 cápsulas,35,0,SI,2
+Suplementos para el sueño,L-Teanina 200 mg,,,120 cápsulas,60,4,SI,2
+Rendimiento deportivo,Creatina Monohidrato,"Creatina monohidrato micronizada, sin sabor. Se disuelve fácil en agua, jugo o batidos.",,300 g,"45,5",8,SI,3
+Rendimiento deportivo,Creatina Monohidrato,,,500 g,70,3,SI,3
+Rendimiento deportivo,L-Glutamina,"L-Glutamina en polvo, 100% pura, sin sabor.",,300 g,38,6,SI,4
+Vitaminas y minerales,Omega 3,"Aceite de pescado concentrado (EPA + DHA), en cápsulas blandas.",,90 cápsulas,42,0,SI,6
+Vitaminas y minerales,Zinc Picolinato,"Producto pausado: no se tiene que ver en la web (activo = NO).",,60 cápsulas,25,10,NO,7

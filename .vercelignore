@@ -1,0 +1,9 @@
+.claude/
+.codex/
+.git/
+skills-lock.json
+.env
+.env.*
+node_modules/
+*.log
+README.md
